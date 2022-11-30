@@ -7,6 +7,11 @@ function Mobile({ isOpen, setIsOpen}) {
       <i class="fi-rr-cross-circle"></i>
     </div>
     <div className="mobile-option">
+      <a href={require("../../../assets/cv.pdf")} download="CV TAHA TAHIRI JOTEY">
+        <i class="fi-rr-briefcase option-icon"></i>{"< CV />"}
+      </a>
+    </div>
+    <div className="mobile-option">
     <a href="#projects" >
           <i class="fi-rr-edit-alt option-icon"></i>Projets
         </a>
@@ -24,11 +29,6 @@ function Mobile({ isOpen, setIsOpen}) {
     <div className="mobile-option">
         <a href="#work">
         <i class="fi-rr-briefcase option-icon"></i>Expériences
-        </a>
-    </div>
-    <div className="mobile-option">
-        <a href="#cv">
-        <i class="fi fi-rr-user option-icon"></i>CV
         </a>
     </div>
   </div>
