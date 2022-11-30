@@ -12,7 +12,7 @@ export const ProjectData=[
     {
         id:2,
         title:"Dashboard",
-        about: "Ce projet est un simple projet d'itégration front-end d'un dashboard.",
+        about: "Ce projet est un simple projet d'intégration front-end d'un dashboard.",
         tags:["ReactJS", "Tailwind"],
         github:"https://github.com/TAHATJ48/Tailwind",
         image:"https://i.imgur.com/ygSIP3s.pngr",
