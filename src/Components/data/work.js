@@ -20,7 +20,7 @@ export const WorkData = [
         company: "SESAMMm" ,
         designation: "Développeur Web FrontEnd",
         date: "2023",
-        companyLogo:"https://imgur.com/a/8DyojX5",
+        companyLogo:"https://i.imgur.com/bUlKHeS.jpg",
         work:"Développement de nouvelles fonctionnalitées Front ainsi que la création d'une nouvelle WebApp interne. "
     },
 ]
