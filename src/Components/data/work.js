@@ -16,4 +16,11 @@ export const WorkData = [
         work:"Création d'un outil pour stocker les produits exportés et les paiement reçus afin de générer des factures. "
     },
 
+    {
+        company: "SESAMMm" ,
+        designation: "Développeur Web FrontEnd",
+        date: "2023",
+        companyLogo:"https://imgur.com/a/8DyojX5",
+        work:"Développement de nouvelles fonctionnalitées Front ainsi que la création d'une nouvelle WebApp interne. "
+    },
 ]
